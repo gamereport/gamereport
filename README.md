@@ -2,7 +2,7 @@
 
 ## 컨텐츠
 
-게시 예정
+* [배틀그라운드 분석](/2018/02/04/README.md) :video_game:
 
 ## 멤버
 
@@ -11,6 +11,7 @@
 * [박현서](https://github.com/Parkhyunseo)
 * [이인재](https://github.com/INJAE)
 * [강민수](https://github.com/minsu9486)
+* 정문기
 
 ## 명예 멤버
 

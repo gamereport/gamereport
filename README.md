@@ -2,7 +2,7 @@
 
 ## 컨텐츠
 
-* [재미있는 게임이란](/2017/11/05/README.md) :video_game:
+* [02주차] [재미있는 게임이란](/2017/11/05/README.md) :video_game:
 * [소녀전선 분석](/2017/11/25/소녀전선_분석.md) :video_game:
 * [배틀그라운드 분석](/2018/02/04/README.md) :video_game:
 * [게임의 시점](/2018/03/05/게임의_시점_분석.md) :video_game:
@@ -15,6 +15,7 @@
 * [박현서](https://github.com/Parkhyunseo)
 * [이인재](https://github.com/INJAE)
 * [강민수](https://github.com/minsu9486)
-* 정문기
 
 ## 명예 멤버
+
+ * 정문기
